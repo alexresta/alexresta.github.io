@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="resumeApp">>
 <head>
 
   <meta charset="utf-8">
@@ -17,10 +17,14 @@
   <link rel="stylesheet" href="css/styles.css">
 
   <link rel="icon" type="image/png" href="images/favicon.png">
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular-sanitize.min.js"></script>
+
+  <script src="scripts/resumeController.js"></script>
+
 
 </head>
 <body>
-
   <div class="container">
     <!-- PDF version -->
     <div class="row separate_top" id="download_pdf">
@@ -53,107 +57,38 @@
 
     </div>
     
-    <!-- SKILLS & OTHER STUFF -->
-    <div class="row">
-
-    </div>
+    <!-- BIO, SKILLS & OTHER STUFF -->
+    <div class="row"> 
+    <p>Hola! If I could choose three words to define me as a teammate, I would say: hardworking, friendly and positive. </p><p>
+    I have over 15 years of experience not only in the software industry but also as an entrepreneur. Founding my own company helped me learn a wide set of skills which made me a more business-aware, focused, organized and goal-driven developer, and also boosted my people and managing skills way over I imagined some years ago.</p>
+     <p>I am looking for a full-time position in a challenging team where I can learn and grow both as a developer and as a person. I am a fast learner and I really like challenges, so challenge me! </p>
+     </div>
      
     <!-- WORK EXPERIENCE -->
-    <div class="row">
+    <div class="row" ng-controller="ResumeCtrl">
       <h2>Work experience</h2>
-      <div class="job_experience">
-        <h3 class="job_title">Cofundador i director tècnic</h3>
-        <span class="job_company">Aborigens - Local food insiders</span>
-        <span class="job_dates">April 2012 – September 2015</span>
-        <span class="job_description">
-            Co-founder of a local food tourism startup in Barcelona. Main roles where business oriented and divided in 2 main categories:
-            CFO: Took care of the finances and legal needs, including reporting progress, taxes, annual shareholders reports and goals.
-            As operations manager, defining all processes and metodologies for the company and technological needs to support them.
-        </span>
-      </div>
-      
-      <div class="job_experience">
-        <h3 class="job_title">WordPress ninja</h3>
-        <span class="job_company">Secretary Plus</span>
-        <span class="job_dates">January 2012 – April 2012</span>
-        <span class="job_description">
-            Goal was to create a new website for secretaries to train and find jobs. My main role was to design and develop advanced plugins for wordpress like:
-            - Job offers for companies
-            - Manage candidates with selection, filtering and selection steps
-            - Training offers
-        </span>
+
+       <div class="job_experience" ng-repeat="job in jobs">
+        <span class="job_dates u-pull-right">{{job.job_dates}}</span>
+        <h3 class="job_title">{{job.job_title}}</h3>
+
+        <em><span class="job_company">{{job.job_company}}</span></em>
+        <div class="job_wherewhen">
+          
+          
+        </div>
+        <div class="job_description" ng-bind-html="job.job_description" ></div>
+        
+        <div ng-if="job.columns==1" class="two-thirds column interior" ng-bind-html="job.column_one"></div>
+        <div ng-if="job.columns==1" class="u-cf"></div>
+
+         <div ng-if="job.columns>=2" class="one-half column interior" ng-bind-html="job.column_one"></div>
+         <div ng-if="job.columns>=2" class="one-half column interior" ng-bind-html="job.column_two"></div>
+       
       </div>
 
-      <div class="job_experience">
-        <h3 class="job_title">Freelance developer</h3>
-        <span class="job_company">Self-employed</span>
-        <span class="job_dates">January 2012 – April 2012</span>
-        <span class="job_description">
-            Lorem ipsum
-        </span>
-      </div>
 
-      <div class="job_experience">
-        <h3 class="job_title">Analyst / Lead Developer</h3>
-        <span class="job_company">keepU</span>
-        <span class="job_dates">September 2008 – February 2011 </span>
-        <span class="job_description">
-            Online Marketing agency, played different roles.
-
-            Lead Developer of interactive marketing projects, featuring PHP, Flash, JQuery
-            PHP software development
-            IT strategy and creativity for new projects. Company is at this date out of business.
-        </span>
-      </div>
-
-      <div class="job_experience">
-        <h3 class="job_title">Analyst / Developer</h3>
-        <span class="job_company">Nextret</span>
-        <span class="job_dates">June 2007 – August 2008 </span>
-        <span class="job_description">
-            Worked 1 year as an analyst / developer at CCRTVI (http://www.ccrtv.cat/entitats/entitat_ccrtvi_cat.htm) developing and mantaining the website: www.super3.cat, and taking part in websites like www.tv3.cat / www.3cat24.cat. 
-            Technologies used: XML/XSL, Java, Oracle
-
-            Also worked for a project for Gencat (www.gencat.cat) using J2EE, struts, hibernate and spring. (Canigó framework)
-        </span>
-      </div>
-
-      <div class="job_experience">
-        <h3 class="job_title">Analyst / Developer J2EE</h3>
-        <span class="job_company">Getronics</span>
-        <span class="job_dates">June 2005 – June 2007  </span>
-        <span class="job_description">
-            Working for AXA/Winterthur with J2EE + Struts
-        </span>
-      </div>
-
-      <div class="job_experience">
-        <h3 class="job_title">Developer</h3>
-        <span class="job_company">GEC (Open univesity of Catalunya group)</span>
-        <span class="job_dates">April 2004 – December 2004</span>
-        <span class="job_description">
-            Web app developer using ASP, PHP, J2EE + Struts + Hibernate
-        </span>
-      </div>
-
-      <div class="job_experience">
-        <h3 class="job_title">Developer</h3>
-        <span class="job_company">Hewlett-Packard</span>
-        <span class="job_dates">January 2002 – January 2003</span>
-        <span class="job_description">
-            Developing a document management software using Oracle PL-SQL , Unix, ASP
-
-        </span>
-      </div>
-
-      <div class="job_experience">
-        <h3 class="job_title">Analyst / Developer</h3>
-        <span class="job_company">Ajuntament de Vilafranca (Local administration)</span>
-        <span class="job_dates">February 2000 – June 2001 </span>
-        <span class="job_description">
-            Plan and implement an intranet from scratch using Oracle, Ms-Access and ASP
-        </span>
-      </div>      
+         
     </div> <!--work experience-->
 
 

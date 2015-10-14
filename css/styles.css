@@ -8,7 +8,7 @@ body {
 }
 
 .separate_top {
-	margin-top: 1.5em;
+	margin: 1.5em 0 1.5em 0;
 }
 
 .row {
@@ -34,6 +34,10 @@ body {
 	margin-top: 16px;
 }
 
+.job_description {
+	margin: 0.5em 0 1.2em 0;
+
+}
 ul li {
 	list-style-type: disc;
 	margin-bottom: 0;
@@ -41,4 +45,18 @@ ul li {
 ul.social_links li {
 	list-style-type: none;
 	margin-bottom: 0;
+}
+h2 {
+	font-size: 3rem;
+}
+
+h3 {
+	font-size:1.5em;
+		line-height: 1;
+	margin:2em 0 0 0;
+}
+
+.one-half.column.interior {
+	width: 45%;
+	margin-left: 2%;
 }
