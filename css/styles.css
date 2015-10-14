@@ -1,0 +1,44 @@
+/*
+* Author: Àlex Resta;
+*/
+
+body {
+  font-family: "Lato", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  	
+}
+
+.separate_top {
+	margin-top: 1.5em;
+}
+
+.row {
+}
+
+.em {
+	font-size: 1em;
+
+}
+#my_name_in_big_bold_letters {
+	line-height: 1;
+	margin:0;
+}
+
+#download_pdf {
+	text-align: center;
+}
+#contact_data {
+	border-bottom: 1px solid #ddd;
+
+}
+.job_experience {
+	margin-top: 16px;
+}
+
+ul li {
+	list-style-type: disc;
+	margin-bottom: 0;
+}
+ul.social_links li {
+	list-style-type: none;
+	margin-bottom: 0;
+}
