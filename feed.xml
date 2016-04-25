@@ -2,26 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Coses que s'han de dir</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:8000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:8000" />
-<updated>2016-04-25T23:55:20+02:00</updated>
-<id>http://localhost:8000/</id>
+<link rel="self" type="application/atom+xml" href="http://coses.alexresta.com/feed.xml" />
+<link rel="alternate" type="text/html" href="http://coses.alexresta.com" />
+<updated>2016-04-26T00:01:00+02:00</updated>
+<id>http://coses.alexresta.com/</id>
 <author>
   <name>Àlex Resta</name>
-  <uri>http://localhost:8000/</uri>
+  <uri>http://coses.alexresta.com/</uri>
   <email>alexresta@gmail.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Popets amb ceba, o un adéu]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:8000/popets-amb-ceba-o-un-adeu/" />
-  <id>http://localhost:8000/popets-amb-ceba-o-un-adeu</id>
+ <link rel="alternate" type="text/html" href="http://coses.alexresta.com/popets-amb-ceba-o-un-adeu/" />
+  <id>http://coses.alexresta.com/popets-amb-ceba-o-un-adeu</id>
   <published>2015-12-05T00:00:00+01:00</published>
   <updated>2015-12-05T00:00:00+01:00</updated>
   <author>
     <name>Àlex Resta</name>
-    <uri>http://localhost:8000</uri>
+    <uri>http://coses.alexresta.com</uri>
     <email>alexresta@gmail.com</email>
   </author>
   <content type="html">
@@ -46,20 +46,20 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/platja.jpg&quot; alt=&quot;Una foto de fa una eternitat&quot; /&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:8000/popets-amb-ceba-o-un-adeu/&quot;&gt;Popets amb ceba, o un adéu&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://localhost:8000&quot;&gt;Coses que s'han de dir&lt;/a&gt; on December 05, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://coses.alexresta.com/popets-amb-ceba-o-un-adeu/&quot;&gt;Popets amb ceba, o un adéu&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://coses.alexresta.com&quot;&gt;Coses que s'han de dir&lt;/a&gt; on December 05, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Les 3 coses que més em grinyolen de la Festa Major de Vilafranca]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:8000/les-3-coses-que-mes-em-grinyolen-de-la-festa-major-de-vilafranca/" />
-  <id>http://localhost:8000/les-3-coses-que-mes-em-grinyolen-de-la-festa-major-de-vilafranca</id>
+ <link rel="alternate" type="text/html" href="http://coses.alexresta.com/les-3-coses-que-mes-em-grinyolen-de-la-festa-major-de-vilafranca/" />
+  <id>http://coses.alexresta.com/les-3-coses-que-mes-em-grinyolen-de-la-festa-major-de-vilafranca</id>
   <published>2015-08-28T00:00:00+02:00</published>
   <updated>2015-08-28T00:00:00+02:00</updated>
   <author>
     <name>Àlex Resta</name>
-    <uri>http://localhost:8000</uri>
+    <uri>http://coses.alexresta.com</uri>
     <email>alexresta@gmail.com</email>
   </author>
   <content type="html">
@@ -104,20 +104,20 @@
 
 &lt;p&gt;Així doncs la pregunta clau és qui vetlla per la Festa Major? Estan clars els rols i responsabilitats de cadascú? És el consell qui ha de vetllar pel llarg termini i prendre decisions com fer canvis en la música de l’entrada? Els administradors haurien de poder fer canvis rellevants en la Festa o s’haurien de centrar en programar actes? I el govern que hi pinta realment? No s’hauria de limitar a tasques de seguretat, facilitar els actes de la festa i mantenir-se al marge de res més? Són preguntes a l’aire, que curiosament contrasten amb que tinguem una festa tant “encarcarada” i protocolitzada i que qui se’n cuida sigui un guirigall.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:8000/les-3-coses-que-mes-em-grinyolen-de-la-festa-major-de-vilafranca/&quot;&gt;Les 3 coses que més em grinyolen de la Festa Major de Vilafranca&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://localhost:8000&quot;&gt;Coses que s'han de dir&lt;/a&gt; on August 28, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://coses.alexresta.com/les-3-coses-que-mes-em-grinyolen-de-la-festa-major-de-vilafranca/&quot;&gt;Les 3 coses que més em grinyolen de la Festa Major de Vilafranca&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://coses.alexresta.com&quot;&gt;Coses que s'han de dir&lt;/a&gt; on August 28, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[SOPA DE CABRA O L’ESTAFA DE MARXAR I TORNAR]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:8000/sopa-de-cabra-o-lestafa-de-marxar-i-tornar/" />
-  <id>http://localhost:8000/sopa-de-cabra-o-lestafa-de-marxar-i-tornar</id>
+ <link rel="alternate" type="text/html" href="http://coses.alexresta.com/sopa-de-cabra-o-lestafa-de-marxar-i-tornar/" />
+  <id>http://coses.alexresta.com/sopa-de-cabra-o-lestafa-de-marxar-i-tornar</id>
   <published>2015-07-15T00:00:00+02:00</published>
   <updated>2015-07-15T00:00:00+02:00</updated>
   <author>
     <name>Àlex Resta</name>
-    <uri>http://localhost:8000</uri>
+    <uri>http://coses.alexresta.com</uri>
     <email>alexresta@gmail.com</email>
   </author>
   <content type="html">
@@ -129,20 +129,20 @@
 
 &lt;p&gt;Quan un grup diu que plega, no aneu als seus concerts, mai més. És el nou engany, l’estafa de la princesa nigeriana versió musical. Poseu-vos el CD i doneu-los per vintage.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:8000/sopa-de-cabra-o-lestafa-de-marxar-i-tornar/&quot;&gt;SOPA DE CABRA O L’ESTAFA DE MARXAR I TORNAR&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://localhost:8000&quot;&gt;Coses que s'han de dir&lt;/a&gt; on July 15, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://coses.alexresta.com/sopa-de-cabra-o-lestafa-de-marxar-i-tornar/&quot;&gt;SOPA DE CABRA O L’ESTAFA DE MARXAR I TORNAR&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://coses.alexresta.com&quot;&gt;Coses que s'han de dir&lt;/a&gt; on July 15, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[ELS CARRILS BICI A VILAFRANCA SÓN SEGURS?]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:8000/els-carrils-bici-a-vilafranca-son-segurs/" />
-  <id>http://localhost:8000/els-carrils-bici-a-vilafranca-son-segurs</id>
+ <link rel="alternate" type="text/html" href="http://coses.alexresta.com/els-carrils-bici-a-vilafranca-son-segurs/" />
+  <id>http://coses.alexresta.com/els-carrils-bici-a-vilafranca-son-segurs</id>
   <published>2015-07-02T00:00:00+02:00</published>
   <updated>2015-07-02T00:00:00+02:00</updated>
   <author>
     <name>Àlex Resta</name>
-    <uri>http://localhost:8000</uri>
+    <uri>http://coses.alexresta.com</uri>
     <email>alexresta@gmail.com</email>
   </author>
   <content type="html">
@@ -165,20 +165,20 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/CE_wdEIWEAAo6_N-768x576.jpg&quot; alt=&quot;carril cap a enlloc&quot; /&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:8000/els-carrils-bici-a-vilafranca-son-segurs/&quot;&gt;ELS CARRILS BICI A VILAFRANCA SÓN SEGURS?&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://localhost:8000&quot;&gt;Coses que s'han de dir&lt;/a&gt; on July 02, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://coses.alexresta.com/els-carrils-bici-a-vilafranca-son-segurs/&quot;&gt;ELS CARRILS BICI A VILAFRANCA SÓN SEGURS?&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://coses.alexresta.com&quot;&gt;Coses que s'han de dir&lt;/a&gt; on July 02, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[PROHIBIT SER NEN]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:8000/prohibit-ser-nen/" />
-  <id>http://localhost:8000/prohibit-ser-nen</id>
+ <link rel="alternate" type="text/html" href="http://coses.alexresta.com/prohibit-ser-nen/" />
+  <id>http://coses.alexresta.com/prohibit-ser-nen</id>
   <published>2015-01-06T00:00:00+01:00</published>
   <updated>2015-01-06T00:00:00+01:00</updated>
   <author>
     <name>Àlex Resta</name>
-    <uri>http://localhost:8000</uri>
+    <uri>http://coses.alexresta.com</uri>
     <email>alexresta@gmail.com</email>
   </author>
   <content type="html">
@@ -220,20 +220,20 @@
 
 &lt;/a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/figure&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:8000/prohibit-ser-nen/&quot;&gt;PROHIBIT SER NEN&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://localhost:8000&quot;&gt;Coses que s'han de dir&lt;/a&gt; on January 06, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://coses.alexresta.com/prohibit-ser-nen/&quot;&gt;PROHIBIT SER NEN&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://coses.alexresta.com&quot;&gt;Coses que s'han de dir&lt;/a&gt; on January 06, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[ELS FILLS DELS ALTRES]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:8000/els-fills-dels-altres/" />
-  <id>http://localhost:8000/els-fills-dels-altres</id>
+ <link rel="alternate" type="text/html" href="http://coses.alexresta.com/els-fills-dels-altres/" />
+  <id>http://coses.alexresta.com/els-fills-dels-altres</id>
   <published>2015-01-03T00:00:00+01:00</published>
   <updated>2015-01-03T00:00:00+01:00</updated>
   <author>
     <name>Àlex Resta</name>
-    <uri>http://localhost:8000</uri>
+    <uri>http://coses.alexresta.com</uri>
     <email>alexresta@gmail.com</email>
   </author>
   <content type="html">
@@ -262,20 +262,20 @@
 &lt;p&gt;O si? Aquestes situacions em superen i no sé quina és la millor manera d’actuar. Una més de les mil preguntes sense resposta del dia a dia.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:8000/els-fills-dels-altres/&quot;&gt;ELS FILLS DELS ALTRES&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://localhost:8000&quot;&gt;Coses que s'han de dir&lt;/a&gt; on January 03, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://coses.alexresta.com/els-fills-dels-altres/&quot;&gt;ELS FILLS DELS ALTRES&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://coses.alexresta.com&quot;&gt;Coses que s'han de dir&lt;/a&gt; on January 03, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[La música de l'entrada de Sant Fèlix]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:8000/la-musica-de-lentrada-de-sant-felix/" />
-  <id>http://localhost:8000/la-musica-de-lentrada-de-sant-felix</id>
+ <link rel="alternate" type="text/html" href="http://coses.alexresta.com/la-musica-de-lentrada-de-sant-felix/" />
+  <id>http://coses.alexresta.com/la-musica-de-lentrada-de-sant-felix</id>
   <published>2014-08-31T00:00:00+02:00</published>
   <updated>2014-08-31T00:00:00+02:00</updated>
   <author>
     <name>Àlex Resta</name>
-    <uri>http://localhost:8000</uri>
+    <uri>http://coses.alexresta.com</uri>
     <email>alexresta@gmail.com</email>
   </author>
   <content type="html">
@@ -297,20 +297,20 @@
 &lt;p&gt;Res pot ser millor que el que ja era, la música ha de ser aquell conjunt de centenars i centenars de petites veus i instruments, cada any igual, cada any diferent, és això el que fa gran aquesta minúscula i curta entrada, la música és el poble entregat a la Festa.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:8000/la-musica-de-lentrada-de-sant-felix/&quot;&gt;La música de l&#39;entrada de Sant Fèlix&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://localhost:8000&quot;&gt;Coses que s'han de dir&lt;/a&gt; on August 31, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://coses.alexresta.com/la-musica-de-lentrada-de-sant-felix/&quot;&gt;La música de l&#39;entrada de Sant Fèlix&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://coses.alexresta.com&quot;&gt;Coses que s'han de dir&lt;/a&gt; on August 31, 2014.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Vilafranca grisa]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:8000/vilafranca-grisa/" />
-  <id>http://localhost:8000/vilafranca-grisa</id>
+ <link rel="alternate" type="text/html" href="http://coses.alexresta.com/vilafranca-grisa/" />
+  <id>http://coses.alexresta.com/vilafranca-grisa</id>
   <published>2014-08-30T00:00:00+02:00</published>
   <updated>2014-08-30T00:00:00+02:00</updated>
   <author>
     <name>Àlex Resta</name>
-    <uri>http://localhost:8000</uri>
+    <uri>http://coses.alexresta.com</uri>
     <email>alexresta@gmail.com</email>
   </author>
   <content type="html">
@@ -339,7 +339,7 @@ CIU i PSC són vells enemics, però s’han unit en una doble causa: intentar no
 &lt;p&gt;&lt;a href=&quot;http://www.eixdiari.cat/opinio/doc/44638/vilafranca-grisa.html&quot;&gt;Article publicat&lt;/a&gt; el 29/10/2013 a eixdiari.cat&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:8000/vilafranca-grisa/&quot;&gt;Vilafranca grisa&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://localhost:8000&quot;&gt;Coses que s'han de dir&lt;/a&gt; on August 30, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://coses.alexresta.com/vilafranca-grisa/&quot;&gt;Vilafranca grisa&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://coses.alexresta.com&quot;&gt;Coses que s'han de dir&lt;/a&gt; on August 30, 2014.&lt;/p&gt;
   </content>
 </entry>
 
