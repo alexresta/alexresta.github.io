@@ -2,26 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Coses que s'han de dir</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://coses.alexresta.com/feed.xml" />
-<link rel="alternate" type="text/html" href="http://coses.alexresta.com" />
-<updated>2016-04-25T23:37:36+02:00</updated>
-<id>http://coses.alexresta.com/</id>
+<link rel="self" type="application/atom+xml" href="http://localhost:8000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:8000" />
+<updated>2016-04-25T23:55:20+02:00</updated>
+<id>http://localhost:8000/</id>
 <author>
   <name>Àlex Resta</name>
-  <uri>http://coses.alexresta.com/</uri>
+  <uri>http://localhost:8000/</uri>
   <email>alexresta@gmail.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Popets amb ceba, o un adéu]]></title>
- <link rel="alternate" type="text/html" href="http://coses.alexresta.com/popets-amb-ceba-o-un-adeu/" />
-  <id>http://coses.alexresta.com/popets-amb-ceba-o-un-adeu</id>
+ <link rel="alternate" type="text/html" href="http://localhost:8000/popets-amb-ceba-o-un-adeu/" />
+  <id>http://localhost:8000/popets-amb-ceba-o-un-adeu</id>
   <published>2015-12-05T00:00:00+01:00</published>
   <updated>2015-12-05T00:00:00+01:00</updated>
   <author>
     <name>Àlex Resta</name>
-    <uri>http://coses.alexresta.com</uri>
+    <uri>http://localhost:8000</uri>
     <email>alexresta@gmail.com</email>
   </author>
   <content type="html">
@@ -29,6 +29,7 @@
 
 &lt;p&gt;Els pares vénen de fàbrica i com tot allò que ve de fàbrica, no hi pensem massa, simplement són. Passem ells i nosaltres per moltes etapes diferents però crec que no és fins ben bé passats els 30 llargs que prens consciència de quina mena de pares són i totalment lligat a això, de saber quina mena de fill ets. No hi ha l’un sense l’altre.&lt;/p&gt;
 
+&lt;!--more--&gt;
 &lt;p&gt;El meu pare i jo, no parlàvem massa, de les nostres coses. Rectifico. Realment només parlàvem de les nostres coses. De tot allò que ens feia brillar els ulls, ens divertia o encuriosia. De com trobar espàrrecs, de si faríem les cuixes de cabrit al forn de pedra o al normal, de mirar a l’ipad d’on venien o anaven els avions que passaven per sobre el pati, de si aquest any per fi les taronges del taronger serien bones o horribles com sempre, de l’últim gadget comprat a Andorra, de si la paella es pot remenar o està prohibit, o de perquè tot el que jo intento fer créixer al balcó acaba sempre infestat de bèsties diferents.&lt;/p&gt;
 
 &lt;p&gt;Era un home ben senzill. Si hagués de fer una aposta, diria que probablement el que més li agradava del món era simplement que ens trobéssim els diumenges per dinar i que l’estona de discutir i parlar amb la mama de què ens farien per dinar, li donava il·lusió per tota la setmana. Aquest darrer any quan el vaig veure més ensopit eren els dies que no tenia esma per fer-nos un arròs o guisar unes galtes. Tossut fins al final, no fa massa encara cuinava tot i que no s’ho menjava. Un dia fa poques setmanes va fer uns 30 flams d’ou, no exagero. I boníssims per cert, una mica dolços, prenc nota per la propera vegada, deia.&lt;/p&gt;
@@ -45,20 +46,20 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/platja.jpg&quot; alt=&quot;Una foto de fa una eternitat&quot; /&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://coses.alexresta.com/popets-amb-ceba-o-un-adeu/&quot;&gt;Popets amb ceba, o un adéu&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://coses.alexresta.com&quot;&gt;Coses que s'han de dir&lt;/a&gt; on December 05, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:8000/popets-amb-ceba-o-un-adeu/&quot;&gt;Popets amb ceba, o un adéu&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://localhost:8000&quot;&gt;Coses que s'han de dir&lt;/a&gt; on December 05, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Les 3 coses que més em grinyolen de la Festa Major de Vilafranca]]></title>
- <link rel="alternate" type="text/html" href="http://coses.alexresta.com/les-3-coses-que-mes-em-grinyolen-de-la-festa-major-de-vilafranca/" />
-  <id>http://coses.alexresta.com/les-3-coses-que-mes-em-grinyolen-de-la-festa-major-de-vilafranca</id>
+ <link rel="alternate" type="text/html" href="http://localhost:8000/les-3-coses-que-mes-em-grinyolen-de-la-festa-major-de-vilafranca/" />
+  <id>http://localhost:8000/les-3-coses-que-mes-em-grinyolen-de-la-festa-major-de-vilafranca</id>
   <published>2015-08-28T00:00:00+02:00</published>
   <updated>2015-08-28T00:00:00+02:00</updated>
   <author>
     <name>Àlex Resta</name>
-    <uri>http://coses.alexresta.com</uri>
+    <uri>http://localhost:8000</uri>
     <email>alexresta@gmail.com</email>
   </author>
   <content type="html">
@@ -68,6 +69,7 @@
 
 &lt;p&gt;Fa unes setmanes vam acostar-nos a Bellvei del Penedès a veure la cercavila. És una festa minúscula però té aquell encant de la festa en que el poble s’hi aboca per tirar-la endavant, aquell encant  voluntariós que a Vilafranca penso que s’ha perdut.&lt;/p&gt;
 
+&lt;!--more--&gt;
 &lt;p&gt;Evidentment és una dimensió molt diferent, però fa anys que la sensació és que tot està super professionalitzat i protocol·litzat, no hi ha gairebé lloc per la improvisació o pels amateurs. La tasca dels administradors és recaptar, potser un dels trets més lamentables i a eliminar de la nostra Festa, i per altra banda omplir els buits, que ja gairebé només són ocupats per músics professionals, artistes professionals o amb alguna cosa que ja es va fer l’any passat i que la tornem a fer (riscos mínims).&lt;/p&gt;
 
 &lt;p&gt;Els balls, una mica el mateix. Volem els balls que ballin millor i això ha creat uns mini gremis de caducitat llarga, on es treballa dur per fer-ho el màxim de bé, però que alhora converteix una mica els balls en peça de museu i mira’m de lluny i no em toquis. No hi ha cap interacció possible entre gent i balls. Us imagineu la gent saltant al costat de l’àliga o el drac?&lt;/p&gt;
@@ -102,20 +104,20 @@
 
 &lt;p&gt;Així doncs la pregunta clau és qui vetlla per la Festa Major? Estan clars els rols i responsabilitats de cadascú? És el consell qui ha de vetllar pel llarg termini i prendre decisions com fer canvis en la música de l’entrada? Els administradors haurien de poder fer canvis rellevants en la Festa o s’haurien de centrar en programar actes? I el govern que hi pinta realment? No s’hauria de limitar a tasques de seguretat, facilitar els actes de la festa i mantenir-se al marge de res més? Són preguntes a l’aire, que curiosament contrasten amb que tinguem una festa tant “encarcarada” i protocolitzada i que qui se’n cuida sigui un guirigall.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://coses.alexresta.com/les-3-coses-que-mes-em-grinyolen-de-la-festa-major-de-vilafranca/&quot;&gt;Les 3 coses que més em grinyolen de la Festa Major de Vilafranca&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://coses.alexresta.com&quot;&gt;Coses que s'han de dir&lt;/a&gt; on August 28, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:8000/les-3-coses-que-mes-em-grinyolen-de-la-festa-major-de-vilafranca/&quot;&gt;Les 3 coses que més em grinyolen de la Festa Major de Vilafranca&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://localhost:8000&quot;&gt;Coses que s'han de dir&lt;/a&gt; on August 28, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[SOPA DE CABRA O L’ESTAFA DE MARXAR I TORNAR]]></title>
- <link rel="alternate" type="text/html" href="http://coses.alexresta.com/sopa-de-cabra-o-lestafa-de-marxar-i-tornar/" />
-  <id>http://coses.alexresta.com/sopa-de-cabra-o-lestafa-de-marxar-i-tornar</id>
+ <link rel="alternate" type="text/html" href="http://localhost:8000/sopa-de-cabra-o-lestafa-de-marxar-i-tornar/" />
+  <id>http://localhost:8000/sopa-de-cabra-o-lestafa-de-marxar-i-tornar</id>
   <published>2015-07-15T00:00:00+02:00</published>
   <updated>2015-07-15T00:00:00+02:00</updated>
   <author>
     <name>Àlex Resta</name>
-    <uri>http://coses.alexresta.com</uri>
+    <uri>http://localhost:8000</uri>
     <email>alexresta@gmail.com</email>
   </author>
   <content type="html">
@@ -127,20 +129,20 @@
 
 &lt;p&gt;Quan un grup diu que plega, no aneu als seus concerts, mai més. És el nou engany, l’estafa de la princesa nigeriana versió musical. Poseu-vos el CD i doneu-los per vintage.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://coses.alexresta.com/sopa-de-cabra-o-lestafa-de-marxar-i-tornar/&quot;&gt;SOPA DE CABRA O L’ESTAFA DE MARXAR I TORNAR&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://coses.alexresta.com&quot;&gt;Coses que s'han de dir&lt;/a&gt; on July 15, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:8000/sopa-de-cabra-o-lestafa-de-marxar-i-tornar/&quot;&gt;SOPA DE CABRA O L’ESTAFA DE MARXAR I TORNAR&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://localhost:8000&quot;&gt;Coses que s'han de dir&lt;/a&gt; on July 15, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[ELS CARRILS BICI A VILAFRANCA SÓN SEGURS?]]></title>
- <link rel="alternate" type="text/html" href="http://coses.alexresta.com/els-carrils-bici-a-vilafranca-son-segurs/" />
-  <id>http://coses.alexresta.com/els-carrils-bici-a-vilafranca-son-segurs</id>
+ <link rel="alternate" type="text/html" href="http://localhost:8000/els-carrils-bici-a-vilafranca-son-segurs/" />
+  <id>http://localhost:8000/els-carrils-bici-a-vilafranca-son-segurs</id>
   <published>2015-07-02T00:00:00+02:00</published>
   <updated>2015-07-02T00:00:00+02:00</updated>
   <author>
     <name>Àlex Resta</name>
-    <uri>http://coses.alexresta.com</uri>
+    <uri>http://localhost:8000</uri>
     <email>alexresta@gmail.com</email>
   </author>
   <content type="html">
@@ -148,6 +150,7 @@
 
 &lt;p&gt;Per exemple, personalment penso que  el de la carretera de Moja és molt perillós i malauradament amb facilitat hi pot haver un accident. Jo mateix vaig tenir-hi un ensurt conduint no fa massa.&lt;/p&gt;
 
+&lt;!--more--&gt;
 &lt;p&gt;Curiosament, sense previ avís, ara surt una notícia on sembla que el problema de sobte són els ciclistes i que la policia municipal els persegueix. Aquesta acció policial s’efectua “arran de la demanda de molts ciutadans per la inseguretat que creen algunes persones que circulen en bicicleta de forma incorrecta o a una velocitat inadequada”. Potser serà que en comptes de reconèixer el problema busquen un boc expiatori?&lt;/p&gt;
 
 &lt;p&gt;Aquí teniu el vídeo del debat amb el que es parla de carril bici:&lt;/p&gt;
@@ -162,25 +165,26 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/CE_wdEIWEAAo6_N-768x576.jpg&quot; alt=&quot;carril cap a enlloc&quot; /&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://coses.alexresta.com/els-carrils-bici-a-vilafranca-son-segurs/&quot;&gt;ELS CARRILS BICI A VILAFRANCA SÓN SEGURS?&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://coses.alexresta.com&quot;&gt;Coses que s'han de dir&lt;/a&gt; on July 02, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:8000/els-carrils-bici-a-vilafranca-son-segurs/&quot;&gt;ELS CARRILS BICI A VILAFRANCA SÓN SEGURS?&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://localhost:8000&quot;&gt;Coses que s'han de dir&lt;/a&gt; on July 02, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[PROHIBIT SER NEN]]></title>
- <link rel="alternate" type="text/html" href="http://coses.alexresta.com/prohibit-ser-nen/" />
-  <id>http://coses.alexresta.com/prohibit-ser-nen</id>
+ <link rel="alternate" type="text/html" href="http://localhost:8000/prohibit-ser-nen/" />
+  <id>http://localhost:8000/prohibit-ser-nen</id>
   <published>2015-01-06T00:00:00+01:00</published>
   <updated>2015-01-06T00:00:00+01:00</updated>
   <author>
     <name>Àlex Resta</name>
-    <uri>http://coses.alexresta.com</uri>
+    <uri>http://localhost:8000</uri>
     <email>alexresta@gmail.com</email>
   </author>
   <content type="html">
     &lt;p&gt;Avui és un d’aquells dies grans per tots aquells infants que tenen prou sort de ser visitats pels reis. És un dia de joc, recolliment familiar i en general, força de portes endins, per recuperar-se d’una nit de nervis i impaciència. Però ser nen avui en dia no és fàcil i a vegades fins i tot diria que sembla que els nens facin nosa.&lt;/p&gt;
 
+&lt;!--more--&gt;
 &lt;p&gt;L’altre dia passàvem un diumenge o dia de festa en cotxe per davant un institut. Faig punt perquè crec que val la pena recalcar que un institut fet de barracons no sé si és de justícia que en diguem institut. Bé, passàvem un diumenge o dia de festa en cotxe per davant un institut fet de barracons, quan vam veure uns nens que saltaven les tanques per entrar a jugar a la pista de futbol. Recordo que lluny de reprovar-ho amb la Laura vam comentar que ens semblava una vergonya que estigués tancat i que s’hagués de saltar.&lt;/p&gt;
 
 &lt;p&gt;Evidentment no puc parlar de gaires llocs més a part de Vilafranca i cadascú sap com està el pati a casa seva, però aquí llocs per jugar al carrer, ben pocs. Parcs infantils amb millor o pitjor estat de manteniment, n’hi ha forces i cap especialment interessant, diguem-ne que són força de mínims, a parer meu. Però quan et fas una mica més gran, quina és l’oferta d’espai públic?&lt;/p&gt;
@@ -195,8 +199,6 @@
 &lt;p&gt;Ens queden doncs les places i parcs públics. Els parcs i places a Vilafranca han anat mutant i perdent possibilitats. A la plaça Penedès per exemple abans hi havia una cistella de bàsquet, ara ja no. No se m’acut cap lloc on trobem dues cistelles per poder jugar un partit normal i encara menys unes porteries de futbol. A la zona esportiva n’hi havia de porteries però desconec si encara hi són, però en tot cas suposo que coincidirem que no és un equipament de barri, precisament.&lt;/p&gt;
 
 &lt;p&gt;Per altra banda, les places són un espai per asseure-hi vells i res més. O això sembla segons tots els cartells que podeu trobar ja no només a Vilafranca sinó a molts llocs (en 5 minuts n’he trobat un munt, només buscant “prohibit jugar” a twitter). Per qui no s’ho cregui, al final posaré una galeria amb unes quantes fotos. Prohibit jugar, prohibit jugar a pilota, prohibit anar en bicileta i anarfent.  I si creieu que no es persegueix, us poso la foto d’un policia vist en directe que s’endú la pilota d’uns nens que jugaven.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/6512ac12a61b11e385b00edb007c6042_8.jpg&quot; alt=&quot;Prohibit jugar&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Llavors els nens que ja són una mica grans per gronxar-se i baixar pel tobogan què han de fer? Hi ha dues opcions, estar a casa sepultat per deures, ser ric i tenir playstation o estar al carrer fent maleses, és a dir donant sortida a la creativitat innata dels nens de la pitjor manera possible.&lt;/p&gt;
 
@@ -218,20 +220,20 @@
 
 &lt;/a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/figure&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://coses.alexresta.com/prohibit-ser-nen/&quot;&gt;PROHIBIT SER NEN&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://coses.alexresta.com&quot;&gt;Coses que s'han de dir&lt;/a&gt; on January 06, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:8000/prohibit-ser-nen/&quot;&gt;PROHIBIT SER NEN&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://localhost:8000&quot;&gt;Coses que s'han de dir&lt;/a&gt; on January 06, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[ELS FILLS DELS ALTRES]]></title>
- <link rel="alternate" type="text/html" href="http://coses.alexresta.com/els-fills-dels-altres/" />
-  <id>http://coses.alexresta.com/els-fills-dels-altres</id>
+ <link rel="alternate" type="text/html" href="http://localhost:8000/els-fills-dels-altres/" />
+  <id>http://localhost:8000/els-fills-dels-altres</id>
   <published>2015-01-03T00:00:00+01:00</published>
   <updated>2015-01-03T00:00:00+01:00</updated>
   <author>
     <name>Àlex Resta</name>
-    <uri>http://coses.alexresta.com</uri>
+    <uri>http://localhost:8000</uri>
     <email>alexresta@gmail.com</email>
   </author>
   <content type="html">
@@ -244,6 +246,7 @@
 
 &lt;p&gt;M’estranyaria si no heu viscut una situació similar, i si no l’heu viscuda, potser sou d’aquests que en dic, dels altres:&lt;/p&gt;
 
+&lt;!--more--&gt;
 &lt;p&gt;Esteu al parc o al carrer o en una ludoteca o en una plaça del poble o en un inflable al carrer o en una festa popular o en una xocolatada o en qualsevol altra cosa amb el vostre spin-off d’ADN. Potser hi jugueu o potser juga sol. O potser juga amb altres nens. De fet és poc important per descriure la situació.&lt;/p&gt;
 
 &lt;p&gt;El que és rellevant és que n’esteu al cas, mentre repasseu el twitter o el candy crush de reüll mireu que no es posi gaires pedres a l’orella, que no baixi del tobogan fent el moonwalk o que després d’uns segons merescuts de bonus, al capdavall és el vostre, cedeixi el torn al gronxador i aprengui a fotre’s com toca en un món amb recursos limitats.&lt;/p&gt;
@@ -259,20 +262,20 @@
 &lt;p&gt;O si? Aquestes situacions em superen i no sé quina és la millor manera d’actuar. Una més de les mil preguntes sense resposta del dia a dia.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://coses.alexresta.com/els-fills-dels-altres/&quot;&gt;ELS FILLS DELS ALTRES&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://coses.alexresta.com&quot;&gt;Coses que s'han de dir&lt;/a&gt; on January 03, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:8000/els-fills-dels-altres/&quot;&gt;ELS FILLS DELS ALTRES&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://localhost:8000&quot;&gt;Coses que s'han de dir&lt;/a&gt; on January 03, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[La música de l'entrada de Sant Fèlix]]></title>
- <link rel="alternate" type="text/html" href="http://coses.alexresta.com/la-musica-de-lentrada-de-sant-felix/" />
-  <id>http://coses.alexresta.com/la-musica-de-lentrada-de-sant-felix</id>
+ <link rel="alternate" type="text/html" href="http://localhost:8000/la-musica-de-lentrada-de-sant-felix/" />
+  <id>http://localhost:8000/la-musica-de-lentrada-de-sant-felix</id>
   <published>2014-08-31T00:00:00+02:00</published>
   <updated>2014-08-31T00:00:00+02:00</updated>
   <author>
     <name>Àlex Resta</name>
-    <uri>http://coses.alexresta.com</uri>
+    <uri>http://localhost:8000</uri>
     <email>alexresta@gmail.com</email>
   </author>
   <content type="html">
@@ -280,6 +283,7 @@
 
 &lt;p&gt;Jo no sóc cap estudiós de la Festa Major, ni ganes, i per tant parlo del que és per mi l’entrada de Sant Fèlix, com un més dels qui hem passat i ens hem atapeït a plaça en un moment o altre.&lt;/p&gt;
 
+&lt;!--more--&gt;
 &lt;p&gt;El primer que em pica la curiositat és el perquè. Què motiva aquest canvi? No s’ha explicat prou i no s’ha explicat bé. Dir que és per dotar de solemnitat a l’acte  és tan poc concret com insatisfactori. Voldria saber de qui ha estat la proposta, &lt;strong&gt;qui ha decidit que l’entrada no és prou solemne i qui ha decidit que posar-hi música la faria solemne.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Ho vull saber per 2 motius, primer perquè no voldria que comencés una dinàmica “patumitzadora” de la Festa Major, i segon, perquè fa temps que al voltant de la Festa s’ha generat una petita indústria de personatges que potser no en viuen (no en sé els números), però sí que se’n beneficien sense els potser necessaris concursos públics. Com que no en sabem prou de tot plegat, els dubtes afloren.&lt;/p&gt;
@@ -293,25 +297,25 @@
 &lt;p&gt;Res pot ser millor que el que ja era, la música ha de ser aquell conjunt de centenars i centenars de petites veus i instruments, cada any igual, cada any diferent, és això el que fa gran aquesta minúscula i curta entrada, la música és el poble entregat a la Festa.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://coses.alexresta.com/la-musica-de-lentrada-de-sant-felix/&quot;&gt;La música de l&#39;entrada de Sant Fèlix&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://coses.alexresta.com&quot;&gt;Coses que s'han de dir&lt;/a&gt; on August 31, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:8000/la-musica-de-lentrada-de-sant-felix/&quot;&gt;La música de l&#39;entrada de Sant Fèlix&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://localhost:8000&quot;&gt;Coses que s'han de dir&lt;/a&gt; on August 31, 2014.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Vilafranca grisa]]></title>
- <link rel="alternate" type="text/html" href="http://coses.alexresta.com/vilafranca-grisa/" />
-  <id>http://coses.alexresta.com/vilafranca-grisa</id>
+ <link rel="alternate" type="text/html" href="http://localhost:8000/vilafranca-grisa/" />
+  <id>http://localhost:8000/vilafranca-grisa</id>
   <published>2014-08-30T00:00:00+02:00</published>
   <updated>2014-08-30T00:00:00+02:00</updated>
   <author>
     <name>Àlex Resta</name>
-    <uri>http://coses.alexresta.com</uri>
+    <uri>http://localhost:8000</uri>
     <email>alexresta@gmail.com</email>
   </author>
   <content type="html">
     &lt;figure class=&quot;image-right&quot;&gt;
-	 &lt;img src=&quot;/images/plataforma-de-ciment-al-soterrament-de-la-via-del-tren-a-vilafranca-e1431725244725&quot; /&gt;
+	 &lt;img src=&quot;/images/plataforma-de-ciment-al-soterrament-de-la-via-del-tren-a-vilafranca-e1431725244725.jpg&quot; /&gt;
 	&lt;figcaption&gt;Plataforma de ciment al soterrament de la via del tren a Vilafranca, també conegut com a “NYAP”
 &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -319,6 +323,7 @@
 
 &lt;p&gt;Regull i Romero són part d’aquesta vella Vilafranca. CIU i PSC aparentment antagònics però que han acabat fusionats arborant la bandera de l’estabilitat institucional. Un PSC que amaga el cap mentre l’alcalde dirigeix els plens municipals amb estil gairebé despòtic.&lt;/p&gt;
 
+&lt;!--more--&gt;
 &lt;p&gt;Ells ens venen una Vilafranca moderna, dinàmica i que afronta els reptes de futur, però Vilafranca està mancada d’il.lusions, és grisa i apàtica. Vilafranca és com la llosa del tren, aquell regal deforme que ens va deixar el PSC juntament amb una factura de 23.5 milions i que Regull va prometre arreglar, promeses que s’acumulen i es van perdent en el vent i s’esquerden com les cases dels veïns de la via.&lt;/p&gt;
 
 &lt;p&gt;És la Vilafranca d’un segon CAP que el PSC prometia cada cap de setmana i que ara sí que sembla que podria arribar. Tard: just quan el primer ha estat retallat, quan el PADES desapareix i els rumors de privatitzacions a l’Hospital no cessen, mentre CIU s’ho mira de lluny.
@@ -334,7 +339,7 @@ CIU i PSC són vells enemics, però s’han unit en una doble causa: intentar no
 &lt;p&gt;&lt;a href=&quot;http://www.eixdiari.cat/opinio/doc/44638/vilafranca-grisa.html&quot;&gt;Article publicat&lt;/a&gt; el 29/10/2013 a eixdiari.cat&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://coses.alexresta.com/vilafranca-grisa/&quot;&gt;Vilafranca grisa&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://coses.alexresta.com&quot;&gt;Coses que s'han de dir&lt;/a&gt; on August 30, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:8000/vilafranca-grisa/&quot;&gt;Vilafranca grisa&lt;/a&gt; was originally published by Àlex Resta at &lt;a href=&quot;http://localhost:8000&quot;&gt;Coses que s'han de dir&lt;/a&gt; on August 30, 2014.&lt;/p&gt;
   </content>
 </entry>
 
